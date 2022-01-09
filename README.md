@@ -40,7 +40,8 @@
                   </ol>
                </div>
             </div>
-            <strong><a href="https://alborzapex.com/product/%d8%aa%d9%82%d9%88%db%8c%d9%85-%d9%81%d8%a7%d8%b1%d8%b3%db%8c-persian-date-picker/"  target="_blank">Persian Date Picker in Aborz APEX</a></strong>
+            <strong>Read more in </strong>
+            <strong><a href="https://alborzapex.com/product/%d8%aa%d9%82%d9%88%db%8c%d9%85-%d9%81%d8%a7%d8%b1%d8%b3%db%8c-persian-date-picker/"  target="_blank">Aborz APEX Persian Date Picker...</a></strong>
 </br>
 <p>
 <div>We used the following link:</div>
